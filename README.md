@@ -1,3 +1,3 @@
-# reading-notes
+## reading-notes
 
-**Welcome to my page**
+# **Welcome to my page**
