@@ -20,6 +20,7 @@ First I want to write about growth mindset..
     is not a shame, the shame is to be shy and not to ask because if you did     
     not ask you will never learn and improve of yourself.
    
-    *Give time to myself, sit with my family or go out to see my friends because if I stayed infront of my PC all the time I will get exhausted. 
+    *Give time to myself, sit with my family or go out to see my friends 
+    because if I stayed infront of my PC all the time I will get exhausted. 
 
 >At the end, compare yourself by yesterday, last week or last year you will see a difference and you will be proud of yourself. Hard work pays off. 
