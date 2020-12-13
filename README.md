@@ -1,4 +1,3 @@
-## reading-notes
 
 # **Welcome to my page**.
 
@@ -24,4 +23,7 @@ First I want to write about growth mindset..
     
     because if I stayed infront of my PC all the time I will get exhausted. 
 
->At the end, compare yourself by yesterday, last week or last year you will see a difference and you will be proud of yourself. Hard work pays off. 
+>At the end, compare yourself by yesterday, last week or last year you will see a difference and you will be proud of yourself. Hard work pays off.
+
+
+## reading-notes
