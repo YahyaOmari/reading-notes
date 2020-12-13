@@ -19,7 +19,7 @@ First I want to write about growth mindset..
     
     the end if I did not uderstand them by myself I can ask anyone to help, it 
     
-    is not a shame, the shame is to be shy and not to ask because ifyou did 
+    is not a shame, the shame is to be shy and not to ask because if you did 
     
     not ask you will never learn and improve of yourself.
    
