@@ -26,18 +26,10 @@ First I want to write about growth mindset..
 
 >At the end, compare yourself by yesterday, last week or last year you will see a difference and you will be proud of yourself. Hard work pays off.
 
+Here you can see my notes 
 
-## Second day 201! 
-**12/13/2020**
-
-
-I learned how to install programs where we will be using these programs for the rest of the course and how to change Virtualization through the f10 thing.
-
-How to connect ubuntu with WSL and how to install some features.
-
-How to use GitHub, Markdown and use a theme to my page which will make it nicer. We have to use README.md or INDEX.md so it will work.
-
-
+[12/13/2020](https://yahyaomari.github.io/reading-notes/reading-notes2)
+[12/14/2020](https://yahyaomari.github.io/reading-notes/reading-noted)
 
 
 ### reading-notes
