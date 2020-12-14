@@ -1,8 +1,9 @@
 
 # **Welcome to my homepage**.
 
-**12/13/2020**
 ## Second day 201! 
+**12/13/2020**
+
 _My name is Yahya, I am 22 years old and I am a fresh graduate from universiry of Jordan. Here I will be writing my notes and solving my assignments_.
 
 First I want to write about growth mindset..
@@ -28,8 +29,8 @@ First I want to write about growth mindset..
 >At the end, compare yourself by yesterday, last week or last year you will see a difference and you will be proud of yourself. Hard work pays off.
 
 
-**12/14/2020**
 ## Third day 201!
+**12/14/2020**
 
 Git hub command 
 
