@@ -11,7 +11,7 @@ First I want to write about growth mindset..
  to avoid ~~toxic~~ people, because they always give negative energy and beleive me you do not need them at all. Maybe you can go 
  back to them one day when you acheive your goals and show them that you made it and you really can do even better. 
  
- 3 things that I recomend myself to do:
+ 3 things that I recommend myself to do:
  
     *Keep improving of myself, even with the basic things.
    
@@ -29,6 +29,7 @@ First I want to write about growth mindset..
 Here you can see my notes 
 
 [12/13/2020](https://yahyaomari.github.io/reading-notes/reading-notes2)
+
 [12/14/2020](https://yahyaomari.github.io/reading-notes/reading-noted)
 
 
