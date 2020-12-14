@@ -27,5 +27,9 @@ First I want to write about growth mindset..
 >At the end, compare yourself by yesterday, last week or last year you will see a difference and you will be proud of yourself. Hard work pays off.
 
 
-## reading-notes
+## Third day 201!
+
+
+
+### reading-notes
 
