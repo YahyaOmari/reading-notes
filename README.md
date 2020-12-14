@@ -1,8 +1,6 @@
 
 # **Welcome to my homepage**.
 
-## Second day 201! 
-**12/13/2020**
 
 _My name is Yahya, I am 22 years old and I am a fresh graduate from universiry of Jordan. Here I will be writing my notes and solving my assignments_.
 
@@ -29,11 +27,21 @@ First I want to write about growth mindset..
 >At the end, compare yourself by yesterday, last week or last year you will see a difference and you will be proud of yourself. Hard work pays off.
 
 
+## Second day 201! 
+**12/13/2020**
+
+
+I learned how to install programs where we will be using these programs for the rest of the course and how to change Virtualization through the f10 thing.
+
+How to connect ubuntu with WSL and how to install some features.
+
+How to use GitHub, Markdown and use a theme to my page which will make it nicer. We have to use README.md or INDEX.md so it will work.
+
+
 ## Third day 201!
 **12/14/2020**
 
-Git hub command 
-
+We learned basic Git commands and I will be writing them.
 ls = list
 
 cd = change directory 
@@ -68,6 +76,8 @@ git commit -m 'ANY  COMMENT'
 git push arigin main = the files go to github
 
 git pull origin main
+
+Also
 
 
 ### reading-notes
