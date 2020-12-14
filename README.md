@@ -1,6 +1,7 @@
 
 # **Welcome to my page**.
 
+**12/13/2020**
 ## Second day 201! 
 _My name is Yahya, I am 22 years old and I am a fresh graduate from universiry of Jordan. Here I will be writing my notes and solving my assignments_.
 
@@ -27,8 +28,28 @@ First I want to write about growth mindset..
 >At the end, compare yourself by yesterday, last week or last year you will see a difference and you will be proud of yourself. Hard work pays off.
 
 
+**12/14/2020**
 ## Third day 201!
 
+Git hub command 
+ls = list
+cd = change directory 
+pwd = print working direct 
+Tree = whole directory of the device visualised 
+cd.. = previous directory
+ls-l = detailed directory 
+"Kew" tab = let the terminal continues by itself
+code. = it gives the code for the folder
+clear = delete everything you wrote just in the "Terminal"
+mkdir = make directory new folder
+touch = it creats an html file
+cd.. = go back 
+
+git clone = coppies the code
+git add = it add all the files after we clone
+git commit -m 'ANY  COMMENT'
+git push arigin main = the files go to github
+git pull origin main
 
 
 ### reading-notes
