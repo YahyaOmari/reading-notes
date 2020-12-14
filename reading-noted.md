@@ -1,7 +1,6 @@
 ## Third day 201! 
 **12/14/2020**
 
-[https://yahyaomari.github.io/reading-notes/reading-noted.md](12/14/2020)
 
 We learned Git basic commands 
 ls = list
