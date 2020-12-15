@@ -36,7 +36,7 @@ Here you can see my notes
 [12/15/2020 CSS Notes](https://yahyaomari.github.io/reading-notes/read05
 )
 
-[12/15/2020 CSS notes](https://yahyaomari.github.io/reading-notes/ComputerArchitectureandLogic)
+[12/15/2020 Computer Architecture and Logic](https://yahyaomari.github.io/reading-notes/ComputerArchitectureandLogic)
 
 ### reading-notes
 
