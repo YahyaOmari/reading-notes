@@ -21,7 +21,6 @@ First I want to write about growth mindset..
     not ask you will never learn and improve of yourself.
    
     *Give time to myself, sit with my family or go out to see my friends 
-    
     because if I stayed infront of my PC all the time I will get exhausted. 
 
 >At the end, compare yourself by yesterday, last week or last year you will see a difference and you will be proud of yourself. Hard work pays off.
@@ -32,6 +31,10 @@ Here you can see my notes
 
 [12/14/2020](https://yahyaomari.github.io/reading-notes/reading-noted)
 
+[12/14/2020 HTML basic notes ](https://yahyaomari.github.io/lab04/ReadNotes.html)
+
+[12/15/2020 CSS notes](https://yahyaomari.github.io/reading-notes/read05
+)
 
 ### reading-notes
 
