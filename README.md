@@ -27,9 +27,9 @@ First I want to write about growth mindset..
 
 Here you can see my notes 
 
-[12/13/2020](https://yahyaomari.github.io/reading-notes/reading-notes2)
+[12/13/2020 Git](https://yahyaomari.github.io/reading-notes/reading-notes2)
 
-[12/14/2020](https://yahyaomari.github.io/reading-notes/reading-noted)
+[12/14/2020 Git Commands](https://yahyaomari.github.io/reading-notes/reading-noted)
 
 [12/14/2020 HTML Basic Notes ](https://yahyaomari.github.io/lab04/ReadNotes.html)
 
@@ -37,6 +37,8 @@ Here you can see my notes
 )
 
 [12/15/2020 Computer Architecture and Logic](https://yahyaomari.github.io/reading-notes/ComputerArchitectureandLogic)
+
+[12/16/2020 Loop and While](https://yahyaomari.github.io/reading-notes/whileloops)
 
 ### reading-notes
 
