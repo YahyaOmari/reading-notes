@@ -33,8 +33,9 @@ Here you can see my notes
 
 [12/14/2020 HTML Basic Notes ](https://yahyaomari.github.io/lab04/ReadNotes.html)
 
-[12/15/2020 CSS Notes](https://yahyaomari.github.io/reading-notes/read05
-)
+[12/15/2020 Entry to JS](https://yahyaomari.github.io/reading-notes/lab06anotes)
+
+[12/15/2020 CSS Notes](https://yahyaomari.github.io/reading-notes/read05)
 
 [12/15/2020 Computer Architecture and Logic](https://yahyaomari.github.io/reading-notes/ComputerArchitectureandLogic)
 
