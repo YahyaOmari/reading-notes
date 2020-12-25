@@ -25,9 +25,13 @@ First I want to write about growth mindset..
 
 >At the end, compare yourself by yesterday, last week or last year you will see a difference and you will be proud of yourself. Hard work pays off.
 
+### what is GitHub used for ..
+GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere. This tutorial teaches you GitHub essentials like repositories, branches, commits, and Pull Requests.
+
 Here you can see my notes
 
-# Code 101,102 Reading Notes:
+
+# [x] Code 101,102 Reading Notes:
 
 [12/13/2020 Git](https://yahyaomari.github.io/reading-notes/reading-notes2)
 
