@@ -88,31 +88,14 @@ element. Different types of form control are suited to collecting different
 types of data. The <fieldset> element is used to group related
 questions together. The <label> element indicates the purpose of each
 form control.
+
 - Whenever you want to collect information from
 visitors you will need a form, which lives inside a
 <form> element.
-- HTML5 introduces new form elements which make it
-easier for visitors to fill in forms
-- Information from a form is sent in name/value pairs.
-
-#### Block Elements...
-
-- <h1>Hiroshi Sugimoto</h1>
-<p>The dates for the ORIGIN OF ART exhibition are as
- follows:</p>
-<ul>
-<li>Science: 21 Nov - 20 Feb 2010/11</li>
-<li>Architecture: 6 Mar - 15 May 2011</li>
-<li>History: 29 May - 21 Aug 2011</li>
-<li>Religion: 28 Aug - 6 Nov 2011</li>
-</ul>
-
-##### Result
-
-![image text](Result.png "code")
 
 
 # JavaScript
+
 JavaScript is a programming language commonly used in web development. It was originally developed by Netscape as a means to add dynamic and interactive elements to websites. ... Like server-side scripting languages, such as PHP and ASP, JavaScript code can be inserted anywhere within the *HTML* of a webpage
 
 #### Examples of JavaSript in the brwoser..
@@ -133,6 +116,7 @@ page using JavaScript, you need to know how a browser interprets the
 HTML code and applies styling to it.*
 
 1. RECEIVE A PAGE AS HTML CODE
+
 - Each page on a website can be
 seen as a separate document .
 So, the web consists of many
@@ -140,6 +124,7 @@ sites, each made up of one or
 more documents. 
 
 2. CREATE A MODEL OF THE PAGE AND STORE IT IN MEMORY
+
 - The model shown on the right
 hand page is a representation
 of one very basic page. Its
@@ -150,6 +135,7 @@ which represents the whole
 document. 
 
 3. USE A RENDERING ENGINE TO SHOW THE PAGE ON SCREEN
+
 - If there is no CSS, the rendering
 engine will apply default styles
 to HTML elements. However,
