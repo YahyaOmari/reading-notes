@@ -25,7 +25,9 @@ First I want to write about growth mindset..
 
 >At the end, compare yourself by yesterday, last week or last year you will see a difference and you will be proud of yourself. Hard work pays off.
 
-Here you can see my notes 
+Here you can see my notes
+
+# Code 101,102 Reading Notes:
 
 [12/13/2020 Git](https://yahyaomari.github.io/reading-notes/reading-notes2)
 
@@ -33,15 +35,19 @@ Here you can see my notes
 
 [12/14/2020 HTML Basic Notes](https://yahyaomari.github.io/lab04/ReadNotes.html)
 
-[12/15/2020 Entry to JS](https://yahyaomari.github.io/reading-notes/lab06anotes)
-
 [12/15/2020 CSS Notes](https://yahyaomari.github.io/reading-notes/read05)
 
 [12/15/2020 Computer Architecture and Logic](https://yahyaomari.github.io/reading-notes/ComputerArchitectureandLogic)
 
+[12/15/2020 Entry to JS](https://yahyaomari.github.io/reading-notes/lab06anotes)
+
 [12/16/2020 Continue Js](https://yahyaomari.github.io/reading-notes/noteslab07)
 
 [12/16/2020 Loop and While](https://yahyaomari.github.io/reading-notes/whileloops)
+
+
+# Code 201 Reading Notes:
+
 
 ### reading-notes
 
