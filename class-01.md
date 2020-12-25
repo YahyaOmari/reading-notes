@@ -82,16 +82,16 @@ Example :
 
 #### We can use Forms in HTML..
 
-- The <form> element uses the action attribute to indicate the page that
-the data is being sent to. Each of the form controls sits inside the <form>
+- The "form" element uses the action attribute to indicate the page that
+the data is being sent to. Each of the form controls sits inside the "form"
 element. Different types of form control are suited to collecting different
-types of data. The <fieldset> element is used to group related
-questions together. The <label> element indicates the purpose of each
+types of data. The "fieldset" element is used to group related
+questions together. The "label" element indicates the purpose of each
 form control.
 
 - Whenever you want to collect information from
 visitors you will need a form, which lives inside a
-<form> element.
+"form" element.
 
 
 # JavaScript
