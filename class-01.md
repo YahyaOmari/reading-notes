@@ -98,6 +98,7 @@ visitors you will need a form, which lives inside a
 
 JavaScript is a programming language commonly used in web development. It was originally developed by Netscape as a means to add dynamic and interactive elements to websites. ... Like server-side scripting languages, such as PHP and ASP, JavaScript code can be inserted anywhere within the *HTML* of a webpage
 
+
 #### Examples of JavaSript in the brwoser..
 
 - Being able to change the content of an HTML page while it is loaded in
@@ -108,6 +109,7 @@ The examples below rely on the ability to:
 - Modify the content of the page.
 - Program rules or instructions the browser can follow.
 - React to events triggered by the user or browser.
+
 
 #### How a browser sees a WebPage
 
