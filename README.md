@@ -49,11 +49,5 @@ Here you can see my notes
 
 [12/16/2020 Loop and While](https://yahyaomari.github.io/reading-notes/whileloops)
 
-
-# Code 201 Reading Notes:
-
-
-[12/25/2020 HTML, CSS and JS](https://yahyaomari.github.io/reading-notes/class-01)
-
 ### reading-notes
 
