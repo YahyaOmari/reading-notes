@@ -31,7 +31,7 @@ GitHub is a code hosting platform for version control and collaboration. It lets
 Here you can see my notes
 
 
-# [x] \Code 101,102 Reading Notes:
+Code 101,102 Reading Notes:
 
 [12/13/2020 Git](https://yahyaomari.github.io/reading-notes/reading-notes2)
 
